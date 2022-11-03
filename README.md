@@ -5,3 +5,5 @@ Project Team
 * Owen (owner)
 * Alice (collaborator)
 * Bob (collaborator)
+
+Copyright team rock 2022
